@@ -23,7 +23,6 @@
 ### ✨ Overview
 
 I’m a Full-Stack Web Developer experienced in delivering production-ready web applications with a strong focus on backend logic and modern front-end integration. I care deeply about clean architecture, maintainable code, and building systems that are both scalable and easy to extend.
-
 My experience includes designing secure application flows, structuring databases, and building responsive interfaces that provide a smooth user experience. I enjoy working across the entire development lifecycle and continuously refining my technical skills through hands-on projects.
 
 ## 🧩 What I Build
@@ -34,3 +33,25 @@ My experience includes designing secure application flows, structuring databases
 - RESTful APIs and backend business logic
 - Responsive and accessible user interfaces
 - Relational database systems using **MySQL**
+
+  ## 🚀 Featured Projects
+
+### 🔹 Ingizly – Service Marketplace Platform
+A service marketplace connecting providers and clients with role-based access and booking management.
+
+**Tech:** Laravel · PHP · MySQL · JavaScript
+
+---
+
+### 🔹 Job Board Platform
+A job listing and application system with employer and candidate roles.
+
+**Tech:** Laravel · PHP · MySQL · Bootstrap
+
+---
+
+### 🔹 Cafeteria Project
+An online cafeteria system for browsing products and managing orders.
+
+**Tech:** PHP · MySQL · JavaScript · Bootstrap
+
