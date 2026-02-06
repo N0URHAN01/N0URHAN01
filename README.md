@@ -1,4 +1,4 @@
-<h1 align="center">Nourhan Mohammed</h1>
+<h1 align="center">Hello there 👋, I’m Nourhan Mohammed</h1>
 
 <p align="center">
   <strong>Software Engineer · Full-Stack Web Developer</strong><br/>
@@ -22,6 +22,15 @@
 
 ### ✨ Overview
 
-I’m a Full-Stack Web Developer with hands-on experience building dynamic, production-ready web applications using **Laravel and modern front-end technologies**. I focus on clean architecture, maintainable code, and creating solutions that balance performance with great user experience.
+I’m a Full-Stack Web Developer experienced in delivering production-ready web applications with a strong focus on backend logic and modern front-end integration. I care deeply about clean architecture, maintainable code, and building systems that are both scalable and easy to extend.
 
-I’ve worked on real-world projects involving authentication systems, role-based access control, dashboards, and full CRUD platforms. I enjoy working across the entire stack—from database design and backend logic to responsive, user-friendly interfaces—and I’m continuously improving my skills through practice and learning.
+My experience includes designing secure application flows, structuring databases, and building responsive interfaces that provide a smooth user experience. I enjoy working across the entire development lifecycle and continuously refining my technical skills through hands-on projects.
+
+## 🧩 What I Build
+
+- End-to-end web applications powered by **Laravel and React**
+- Secure login systems with **authorization and role management**
+- Admin dashboards and internal management tools
+- RESTful APIs and backend business logic
+- Responsive and accessible user interfaces
+- Relational database systems using **MySQL**
