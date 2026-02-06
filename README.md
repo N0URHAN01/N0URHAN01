@@ -55,3 +55,15 @@ An online cafeteria system for browsing products and managing orders.
 **Tech:** PHP · MySQL · JavaScript · Bootstrap
 [View Repository](https://github.com/N0URHAN01/Cafeteria_app)
 ---
+
+## 🤝 Collaboration & Opportunities
+
+I am open to:
+- 💼 Junior / Entry-Level Full-Stack roles
+- 🧑‍💻 Freelance & part-time projects
+- 🤝 Team collaborations & open-source contributions
+
+### 📫 Let’s Connect
+- 💼 **LinkedIn:** [linkedin.com/in/nourhan-mohammed01](https://www.linkedin.com/in/nourhan-mohammed01/)
+- 📧 **Email:** [nourhanmohammed1467@gmail.com](mailto:nourhanmohammed1467@gmail.com)
+
