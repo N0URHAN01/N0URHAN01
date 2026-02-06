@@ -67,3 +67,13 @@ I am open to:
 - 💼 **LinkedIn:** [linkedin.com/in/nourhan-mohammed01](https://www.linkedin.com/in/nourhan-mohammed01/)
 - 📧 **Email:** [nourhanmohammed1467@gmail.com](mailto:nourhanmohammed1467@gmail.com)
 
+## 🧠 Technical Skills
+
+**Backend**  
+PHP · Laravel · Node.js · MVC Architecture · RESTful APIs · Authentication & Authorization
+
+**Frontend**  
+HTML · CSS · JavaScript · React · Angular 19 · Bootstrap · Responsive Design
+
+**Databases**  
+MySQL · Database Design · Relationships
