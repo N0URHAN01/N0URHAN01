@@ -40,18 +40,17 @@ My experience includes designing secure application flows, structuring databases
 A service marketplace connecting providers and clients with role-based access and booking management.
 
 **Tech:** Laravel · PHP · MySQL · JavaScript
-
+[View Repository](https://github.com/medium-sofy/ingizly)
 ---
 
 ### 🔹 Job Board Platform
 A job listing and application system with employer and candidate roles.
 
 **Tech:** Laravel · PHP · MySQL · Bootstrap
-
 ---
 
 ### 🔹 Cafeteria Project
 An online cafeteria system for browsing products and managing orders.
 
 **Tech:** PHP · MySQL · JavaScript · Bootstrap
-
+[View Repository](https://github.com/N0URHAN01/Cafeteria_app)
